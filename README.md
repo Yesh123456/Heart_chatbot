@@ -1,10 +1,3 @@
-# Doctor Chatbot v2
-This is Version 2 (Revamped Edition) of Doctor Chatbot Project, re-built using React, Flask & Heroku! (Also SQLAlchemy and Gmail API - Google Cloud)
-
-Link: https://doctor-chatbot-project.herokuapp.com/
-
-Link to Original Version of Project (v1): https://github.com/SherwinRF/Doctor_Chatbot/
-
 **Requirements:** Python & Node.js
 
 # Environment Setup
