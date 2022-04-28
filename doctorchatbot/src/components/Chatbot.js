@@ -30,7 +30,7 @@ function Chatbot() {
     return (
         <>
             <iframe
-                title="Doctor Chatbot"
+                title="Heart Chatbot"
                 allow="microphone;"
                 autoComplete="off"
                 className={classes.chat}

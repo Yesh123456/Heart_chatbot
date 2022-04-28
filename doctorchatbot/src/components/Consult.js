@@ -81,7 +81,7 @@ function Consult() {
         <Grid container spacing={2}>
             <Grid item xs={12} className={classes.navbar}>
                 <Typography variant='h6' className={classes.header}>
-                    Doctor Chatbot
+                    Heart Chatbot
                 </Typography>
                 <BackButton title="End Chat" redirect="/" />
                 { 
