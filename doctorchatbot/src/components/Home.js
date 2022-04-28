@@ -117,7 +117,7 @@ function Home() {
                 </Grid>
                 <Grid item xs={12} className={classes.footer}>
                     <Typography variant='h6' style={{ fontFamily: 'Indie Flower' }}>
-                        B.E. Final Year Project, Made by Sherwin, Rutvij, Preston and Macklon
+                        B.E. Final Year Project, Made by Mayuresh, Yesh and Dhruvank
                     </Typography>
                 </Grid>
             </Grid>
